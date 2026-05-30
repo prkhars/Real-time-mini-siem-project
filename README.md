@@ -152,5 +152,5 @@ The SIEM uses a sliding-window threshold mechanism:
 ## Author
 
 Prkhar Sharma
-
-Cyber Security Enthusiast | SOC & SIEM Projects | Python Security Automation
+B.Tech CSE (Cyber Security)
+Bennett University
